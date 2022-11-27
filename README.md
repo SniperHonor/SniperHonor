@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SniperHonor
 - 👀 I’m interested in coding and learning 
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning JavaScript and Java Languages
 - 📫 Here is my gmail-id:- vinaysharma72561@gmail.com
 
 <!---
